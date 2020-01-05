@@ -7,8 +7,6 @@ Authors: [Sumanth Dathathri](https://dathath.github.io/), [Andrea Madotto](https
 
 PPLM allows a user to flexibly plug in one or more tiny attribute models representing the desired steering objective into a large, unconditional language model (LM). The method has the key property that it uses the LM _as is_—no training or fine-tuning is required—which enables researchers to leverage best-in-class LMs even if they do not have the extensive hardware required to train them.
 
-See also our [arXiv paper](https://arxiv.org/abs/1912.02164), [blog post](https://eng.uber.com/pplm), and try it out for yourself with no setup using the [Colab notebook](https://colab.research.google.com/drive/1Ux0Z4-ruiVtJ6jUk98uk6FqfvGHCOYL3).
-
 ## Setup
 
 ```bash
